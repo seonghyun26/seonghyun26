@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seonghyun26
-- 📚 I’m a student studying Computer Science
-- 🌱 I’m currently learning Computer Architecture and AI
+- 📚 I’m a student studying Computer Science & Engineering
+- 🌱 I’m currently learning OS and Machine Learning
 - 📫 How to reach me ...
 
 <!---
