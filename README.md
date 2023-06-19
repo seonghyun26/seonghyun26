@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @seonghyun26
-- 📚 I’m a graduate student at Machine Learning Lab at POSTECH.
+- 📚 I’m a graduate student at Machine Learning Lab, POSTECH.
 - 🌱 I’m interested in Graph Neural Networks and geometric deep learning.
 - 📫 Reach me by [email](mailto:shpark26@postech.ac.kr)!
 
