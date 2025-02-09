@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @seonghyun26
-- 📚 I’m a graduate student at Machine Learning Lab, POSTECH.
-- 🌱 I’m interested in Graph Neural Networks and geometric deep learning.
-- 📫 Reach me by [email](mailto:shpark26@postech.ac.kr)!
-
-<!---
-seonghyun26/seonghyun26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📚 I’m a PhD student at Machine Learning for Molecules Lab, KAIST AI.
+- 🌱 I’m recently interested in the following:
+  - Molecular Dynamics (MD) simulation and Machine Learning Collective Variables
+  - Graph Neural Networks (GNNs), Over-squashing
+- 📫 Reach me by [email](mailto:hyun26@kaist.ac.kr)!
