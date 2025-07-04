@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @seonghyun26
-- 📚 I’m a PhD student at Machine Learning for Molecules Lab, KAIST AI.
+- 📚 I’m a PhD student at Machine Learning for SPML (Structured and Probabilistic Machine Learning) Lab, KAIST AI, advised by Sungsso Ahn.
 - 🌱 I’m recently interested in the following:
-  - Molecular Dynamics (MD) simulation and Machine Learning Collective Variables
+  - Molecular Dynamics (MD) simulation, Machine Learning Collective Variables (CVs)
   - Graph Neural Networks (GNNs), Over-squashing
 - 📫 Reach me by [email](mailto:hyun26@kaist.ac.kr)!
